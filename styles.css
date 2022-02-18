@@ -1,5 +1,9 @@
-div.jumbotron {background-color: blueviolet;
-}
+/* div.jumbotron {background-color: blueviolet;
+} */
 
 h6 {font-weight: bold;
+}
+
+.jumbotron {
+  background-image : url('belly_dancer.jpg'):
 }
