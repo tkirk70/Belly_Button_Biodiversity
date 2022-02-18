@@ -8,4 +8,5 @@ h6 {font-weight: bold;
   background-image : url('belly_dancer.jpg');
   background-repeat: no-repeat;
   background-color: white;
+  background-position: right;
 }
