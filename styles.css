@@ -1,10 +1,12 @@
 /* div.jumbotron {background-color: blueviolet;
 } */
-
+body {
+  background-color : rgb(211,211,211);
+}
 h6 {font-weight: bold;
 }
 
 .jumbotron {
   background-image : url('belly_dancer.jpg');
-  background-color : rgb(211,211,211);
+  object-position: 50px 30px;
 }
