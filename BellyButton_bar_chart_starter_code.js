@@ -182,7 +182,7 @@ function buildCharts(sample) {
                   
       
         value: result.wfreq,
-        title: { text: "<strong>Belly Button Washing Frequency</strong><br>Scrubs per Week" },
+        title: { text: <strong>"Belly Button Washing Frequency"<br>"Scrubs per Week" },
         type: "indicator",
         mode: "gauge+number"
         
