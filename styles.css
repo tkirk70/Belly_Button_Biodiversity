@@ -8,5 +8,5 @@ h6 {font-weight: bold;
 
 .jumbotron {
   background-image : url('belly_dancer.jpg');
-  object-position: 50px 30px;
+  background-repeat: no-repeat;
 }
