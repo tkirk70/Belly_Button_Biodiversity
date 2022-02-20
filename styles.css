@@ -10,3 +10,8 @@ h6 {font-weight: bold;
   background-color: white;
   background-position: right;
 }
+
+p {
+  padding-right: 31px;
+  padding-left: 31px;
+}
