@@ -15,3 +15,7 @@ p {
   padding-right: 41px;
   padding-left: 41px;
 }
+
+a.nav-link {
+  padding-right: 5px;
+}
