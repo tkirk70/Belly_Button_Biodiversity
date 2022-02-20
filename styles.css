@@ -14,8 +14,9 @@ h6 {font-weight: bold;
 p {
   padding-right: 41px;
   padding-left: 41px;
+  font-size: 17px;
 }
 
 a.nav-link {
-  padding-right: 5px;
+  padding-right: 17px;
 }
